@@ -657,3 +657,6 @@ RSpec/ExampleLength:
 
 RSpec/NestedGroups:
   Enabled: false
+
+RSpec/IndexedLet:
+  Enabled: false
